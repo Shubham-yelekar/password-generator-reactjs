@@ -1,1 +1,4 @@
-Reactjs + Tailwind + React-icons
+# Passwor Generator
+
+made with
+### Reactjs + Tailwind + React-icons
